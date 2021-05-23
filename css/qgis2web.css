@@ -6,6 +6,19 @@
             text-align: left;
             vertical-align: top;
         }
+        #features {
+          top: 0;
+          left: 20px;
+          height: 80px;
+          margin-top: 20px;
+          width: 350px;
+        }
+
+        h2 {
+          margin: 9px;
+          font-size: 1.2em;
+          text-align: left;
+        }
         .info {
             padding: 6px 8px;
             font: 14px/16px Arial, Helvetica, sans-serif;
